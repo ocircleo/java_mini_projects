@@ -1,0 +1,1 @@
+Some java cli based mini projects for learning purpose only
